@@ -4,7 +4,7 @@ An interactive Excel dashboard analyzing 100+ years of 5500+ movies' data, desig
 
 ## 📊 Project Highlights
 
-- ✅ Over **5,500 movies**, **8,000+ actors**, and **2,500+ directors** analyzed
+- ✅ Over **5,500 movies**, **8,000+ actors**, and **2,500+ directors** analyzed (https://www.kaggle.com/datasets/rakkesharv/imdb-5000-movies-multiple-genres-dataset/data)
 - ✅ Fully **slicer-responsive dashboard** with timeline and genre filters
 - ✅ KPIs including **highest grossing movie**, **most prolific actors**, **top-rated titles**
 - ✅ Visuals: bar charts, line graphs, pie and donut charts, area charts
