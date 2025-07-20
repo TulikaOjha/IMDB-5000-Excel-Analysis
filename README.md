@@ -1,9 +1,6 @@
-# IMDB-5000-Excel-Analysis
-Interactive Excel dashboard analyzing 5,500+ movies (1920–2022) by gross earnings, IMDb ratings, genres, directors, and actors. Fully slicer-responsive with clear KPIs, charts, and trends. Built using Pivot Tables, Power Query, and Excel visuals to showcase BI and storytelling skills.
-
 # 🎬 Cinema by the Numbers: Box Office & Ratings Dashboard (1920–2022)
 
-An interactive Excel dashboard analyzing 100+ years of movie data, designed to surface trends in genre popularity, ratings, and box office success.
+An interactive Excel dashboard analyzing 100+ years of 5500+ movies' data, designed to surface trends in genre popularity, ratings, and box office success.
 
 ## 📊 Project Highlights
 
@@ -18,13 +15,16 @@ An interactive Excel dashboard analyzing 100+ years of movie data, designed to s
 
 - Microsoft Excel (Pivot Tables, Charts, Slicers, Named Ranges, Conditional Formatting)
 - Raw CSV data cleaned using Excel Power Query (M code)
+- Ratings, Gross Earnings and runtime have been adjusted using bayesian average
 
 ## 📌 Key Insights (Sample)
 
 - **Action** and **Adventure** dominate gross earnings but not average ratings.
 - **Biographies** and **Dramas** tend to receive higher IMDb scores.
 - Directors like the **Russo Brothers** and **James Cameron** lead in lifetime earnings.
-- The 2010s saw the highest surge in movie releases.
+- **Avengers: Endgame** was the biggest movie of all-time directed by **Russo Brothers** starring **Chris Evans**, **Chris Hemsworth**, **Mark Rufallo** and **Robert Downey Jr.**.
+- **The Matrix** despite being released in **1999** is the rated movie of all-time.
+- The 2014 saw the highest surge in movie releases.
 
 ## 🧠 Learning Outcome
 
