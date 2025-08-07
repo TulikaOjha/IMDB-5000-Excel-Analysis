@@ -22,8 +22,8 @@ An interactive Excel dashboard analyzing 100+ years of 5500+ movies' data, desig
 - **Action** and **Adventure** dominate gross earnings but not average ratings.
 - **Biographies** and **Dramas** tend to receive higher IMDb scores.
 - Directors like the **Russo Brothers** and **James Cameron** lead in lifetime earnings.
-- **Avengers: Endgame** was the biggest movie of all-time directed by **Russo Brothers** starring **Chris Evans**, **Chris Hemsworth**, **Mark Rufallo** and **Robert Downey Jr.**.
-- **The Matrix** despite being released in **1999** is the rated movie of all-time.
+- **Star Wars: Episode VII - The Force Awakens** was the biggest movie of all-time.
+- **The Shawshank Redemption** despite being released in **1994** is the highest rated movie of all-time.
 - The 2014 saw the highest surge in movie releases.
 
 ## Learning Outcome
